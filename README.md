@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlhaW91ZjY4eXdsbnFubjcyczJ5OWl3N2d5ZjIzZjRrdjYwMTMwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C2GtNxNdOfprXhUJGR/giphy.gif" width="300" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY282c2w1N3gzbTlmdGplaXo1bXJ3MDFveXYybjNzaGZtcHd1cWVwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ujTVMASREzuRbH6zy5/giphy.gif" width="300" />
 </p>
 <h1 align="center">Hi 👋, I'm Archit Awasthi</h1>
 <h3 align="center">I am exploring core CS concepts, cloud computing, and software development. Currently focusing on improving DSA skills and gaining hands-on experience with Linux and system tools. Always open to learning, connecting, and collaborating on meaningful tech projects.</h3>
